@@ -1,2 +1,4 @@
 node_modules
 config
+tests
+src/math.js
